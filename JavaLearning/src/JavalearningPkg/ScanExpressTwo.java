@@ -61,7 +61,6 @@ public class ScanExpressTwo {
 		int sub2 = exp.Subtract(sub1, op5);
 		exp.Division(sub2, op6);
 		
-		
 	}
 
 }

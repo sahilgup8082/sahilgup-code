@@ -61,10 +61,6 @@ public class ScanExpressOne {
 		int sum2 = exp.Sum(sub1, op4);
 		int mult1 = exp.Multiply(sum2, op5);
 		exp.Division(mult1, op6);
-		
-		
-		
-		
 	}
 
 }
